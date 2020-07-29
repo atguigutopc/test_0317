@@ -10,3 +10,4 @@ ddddd -- edit by color
 color 2 -- edit by color
 color 3 -- edit by color
 master 1
+new line --edit by new
